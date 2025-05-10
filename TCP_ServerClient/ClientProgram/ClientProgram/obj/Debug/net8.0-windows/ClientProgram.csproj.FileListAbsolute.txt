@@ -1,0 +1,16 @@
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\bin\Debug\net8.0-windows\ClientProgram.exe
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\bin\Debug\net8.0-windows\ClientProgram.deps.json
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\bin\Debug\net8.0-windows\ClientProgram.runtimeconfig.json
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\bin\Debug\net8.0-windows\ClientProgram.dll
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\bin\Debug\net8.0-windows\ClientProgram.pdb
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.Form1.resources
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.csproj.GenerateResource.cache
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.GeneratedMSBuildEditorConfig.editorconfig
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.AssemblyInfoInputs.cache
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.AssemblyInfo.cs
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.csproj.CoreCompileInputs.cache
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.dll
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\refint\ClientProgram.dll
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.pdb
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ClientProgram.genruntimeconfig.cache
+K:\1_Lecture\10_Csharp\work\ClientProgram\ClientProgram\obj\Debug\net8.0-windows\ref\ClientProgram.dll

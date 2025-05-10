@@ -1,0 +1,16 @@
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\bin\Debug\net8.0-windows\TcpServer.exe
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\bin\Debug\net8.0-windows\TcpServer.deps.json
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\bin\Debug\net8.0-windows\TcpServer.runtimeconfig.json
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\bin\Debug\net8.0-windows\TcpServer.dll
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\bin\Debug\net8.0-windows\TcpServer.pdb
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.Form1.resources
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.csproj.GenerateResource.cache
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.AssemblyInfoInputs.cache
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.AssemblyInfo.cs
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.csproj.CoreCompileInputs.cache
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.dll
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\refint\TcpServer.dll
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.pdb
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\TcpServer.genruntimeconfig.cache
+K:\1_Lecture\10_Csharp\work\TcpServer\TcpServer\obj\Debug\net8.0-windows\ref\TcpServer.dll
