@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uuqu8iaVtik=",
+  "success": true,
+  "projectFilePath": "K:\\1_Lecture\\10_Csharp\\work\\tcpTempMonitor\\tcpTempMonitor\\tcpTempMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heart\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
