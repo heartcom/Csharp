@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartTempHumi", "ChartTempHumi\ChartTempHumi.csproj", "{911ECBDD-6414-4AE8-9CC7-0B66729D5456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911ECBDD-6414-4AE8-9CC7-0B66729D5456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911ECBDD-6414-4AE8-9CC7-0B66729D5456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911ECBDD-6414-4AE8-9CC7-0B66729D5456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911ECBDD-6414-4AE8-9CC7-0B66729D5456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF5271F3-30F9-4304-AB74-04EC708BDB3C}
+	EndGlobalSection
+EndGlobal

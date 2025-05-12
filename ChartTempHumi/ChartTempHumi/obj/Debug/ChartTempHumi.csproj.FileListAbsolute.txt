@@ -1,0 +1,10 @@
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\bin\Debug\ChartTempHumi.exe.config
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\bin\Debug\ChartTempHumi.exe
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\bin\Debug\ChartTempHumi.pdb
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.csproj.AssemblyReference.cache
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.Form1.resources
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.Properties.Resources.resources
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.csproj.GenerateResource.cache
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.csproj.CoreCompileInputs.cache
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.exe
+K:\1_Lecture\10_Csharp\work\ChartTempHumi\ChartTempHumi\obj\Debug\ChartTempHumi.pdb
